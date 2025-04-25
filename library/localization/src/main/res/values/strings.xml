@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Moneta App</string>
+    <string name="country">Country</string>
+    <string name="college">College</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="unknown_value">---</string>
+    <string name="draft">Draft</string>
+    <string name="year">Year</string>
+    <string name="round">Round</string>
+    <string name="number">Number</string>
+    <string name="open_team_detail">Open team %s detail</string>
+    <string name="conference">Conference</string>
+    <string name="division">Division</string>
+    <string name="city">City</string>
+</resources>

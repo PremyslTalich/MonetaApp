@@ -50,7 +50,8 @@ For testing I use:
   - JUnit as unit testing framework
   - Kotest for assertions
   - Mockk for mocks
-  - and Turbine for testing flows
+  - Turbine for testing flows
+  - and ArchUnit for testing the architecture
 
 Examples of unit tests are in 👇 unfortunately I don't have the time to write them all (domain, presentation and data layers)
   - `InMemoryNbaRepositoryTest`
